@@ -504,7 +504,7 @@ img {
 .preloader-bar {
   width: 100px;
   height: 4px;
-  background-color: var(--first-color);
+  background-color: #f0f;
   position: relative;
   overflow: hidden;
 }
